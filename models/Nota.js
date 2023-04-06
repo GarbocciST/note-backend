@@ -27,3 +27,6 @@ NotaSchema.method('toJSON', function() {
 
 module.exports = model('Nota', NotaSchema );
 
+
+
+
